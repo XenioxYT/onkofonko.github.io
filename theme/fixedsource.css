@@ -53,7 +53,7 @@
 
 .app-focused {
     --app-focused-transition: background-color var(--app-focused-duration) ease-in-out, backdrop-filter 0s linear 0s;
-    --blur-header: blur(128px);
+    --blur-header: blur(64px);
     --blur-sidebar: blur(32px);
     --button-blur: blur(64px)
 }
