@@ -53,9 +53,9 @@
 
 .app-focused {
     --app-focused-transition: background-color var(--app-focused-duration) ease-in-out, backdrop-filter 0s linear 0s;
-    --blur-header: blur(16px);
-    --blur-sidebar: blur(8px);
-    --button-blur: blur(16px)
+    --blur-header: blur(24px);
+    --blur-sidebar: blur(16px);
+    --button-blur: blur(24px)
 }
 
 .activity-2EQDZv,
